@@ -24,12 +24,7 @@ https://github.com/user-attachments/assets/c053858d-29bb-4a4f-8552-0570ebbbbc2c
     git clone https://github.com/your-username/nairobi-property-price-predictor.git
 
 ## Usage
-### 1. Run the Gradio app:
-    python app.py
-  
-### 2. Open your web browser and go to `http://localhost:7860` (or the URL provided in the terminal).
-### 3. Fill in the property details in the web interface.
-### 4. Click "Submit" to get the predicted price.
+The model is deployed at HuggingFace Spaces, so you can test it out by clicking here: [Chescore/Nairobi-Property-Price-Predictor](https://huggingface.co/spaces/chescore/Nairobi-Property-Price-Predictor)
 
 ## Model Details
 - The model uses LightGBM for prediction.
