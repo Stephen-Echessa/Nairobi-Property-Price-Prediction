@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/c053858d-29bb-4a4f-8552-0570ebbbbc2c
 - NumPy for numerical operations
 
 ## Clone this repository:
-    git clone https://github.com/your-username/nairobi-property-price-predictor.git
+    git clone https://github.com/Stephen-Echessa/Nairobi-Property-Price-Predictor.git
 
 ## Usage
 The model is deployed at HuggingFace Spaces, so you can test it out by clicking here: [Chescore/Nairobi-Property-Price-Predictor](https://huggingface.co/spaces/chescore/Nairobi-Property-Price-Predictor)
